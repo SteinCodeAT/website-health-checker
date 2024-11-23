@@ -1,4 +1,4 @@
-# Website Health Checker
+# 🌐 Website Health Checker
 
 This python script checks a given website for the following health issues:
 
@@ -24,10 +24,11 @@ Since links can break at any time by accident or misfortune, it is important to 
 
 ### Installation
 
-First, clone the repository (or download it). Then, create a new virtual environment and install the dependencies. This repository uses pipenv for that.
+This repository requires python 3.12+.
+
+Clone the repository (or download it). Then, create a new virtual environment and install the dependencies. This repository uses pipenv for that.
 
 ```python
-cd website_health_checker
 pipenv install
 ```
 
