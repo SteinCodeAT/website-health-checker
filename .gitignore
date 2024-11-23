@@ -1,0 +1,5 @@
+# Output files
+reports/*.html
+
+# Production config
+config.json

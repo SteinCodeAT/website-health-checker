@@ -1,0 +1,5 @@
+{
+    "valid_email_addresses": [],
+    "skip_check_urls": [],
+    "skip_check_url_patterns": []
+}
