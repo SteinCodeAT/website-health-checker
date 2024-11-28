@@ -50,6 +50,8 @@ The script will now look for your sitemap.xml and crawl each page referenced in 
 
 The final report is saved in the /reports folder in the root of the project. If the folder does not exist, the script will create it for you.
 
+![A screenshot of the created report](https://github.com/SteinCodeAT/website-health-checker/blob/66c7196bcb60437d447ee6e72434cf455a19e55a/docs/website-health-checker-sample-report.png)
+
 ### Additional Configurations
 
 Additional settings can be defined in a config.json file in the root directory.
