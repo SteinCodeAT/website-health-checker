@@ -4,6 +4,9 @@ reports/*.html
 # Production config
 config.json
 
+# vscode specific files
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
